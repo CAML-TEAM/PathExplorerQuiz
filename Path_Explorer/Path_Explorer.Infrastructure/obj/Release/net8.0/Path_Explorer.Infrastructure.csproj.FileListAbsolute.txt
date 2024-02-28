@@ -1,0 +1,11 @@
+C:\Users\umar26896\source\repos\Path_Explorer\Path_Explorer.Infrastructure\bin\Release\net8.0\Path_Explorer.Infrastructure.deps.json
+C:\Users\umar26896\source\repos\Path_Explorer\Path_Explorer.Infrastructure\bin\Release\net8.0\Path_Explorer.Infrastructure.dll
+C:\Users\umar26896\source\repos\Path_Explorer\Path_Explorer.Infrastructure\bin\Release\net8.0\Path_Explorer.Infrastructure.pdb
+C:\Users\umar26896\source\repos\Path_Explorer\Path_Explorer.Infrastructure\obj\Release\net8.0\Path_Explorer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umar26896\source\repos\Path_Explorer\Path_Explorer.Infrastructure\obj\Release\net8.0\Path_Explorer.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\umar26896\source\repos\Path_Explorer\Path_Explorer.Infrastructure\obj\Release\net8.0\Path_Explorer.Infrastructure.AssemblyInfo.cs
+C:\Users\umar26896\source\repos\Path_Explorer\Path_Explorer.Infrastructure\obj\Release\net8.0\Path_Explorer.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\umar26896\source\repos\Path_Explorer\Path_Explorer.Infrastructure\obj\Release\net8.0\Path_Explorer.Infrastructure.dll
+C:\Users\umar26896\source\repos\Path_Explorer\Path_Explorer.Infrastructure\obj\Release\net8.0\refint\Path_Explorer.Infrastructure.dll
+C:\Users\umar26896\source\repos\Path_Explorer\Path_Explorer.Infrastructure\obj\Release\net8.0\Path_Explorer.Infrastructure.pdb
+C:\Users\umar26896\source\repos\Path_Explorer\Path_Explorer.Infrastructure\obj\Release\net8.0\ref\Path_Explorer.Infrastructure.dll
